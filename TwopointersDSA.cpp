@@ -1,3 +1,4 @@
+
 //pattern : two pointers using arrays 
 //sort an array consisting 0s and 1s 
 #include<iostream>
