@@ -7,8 +7,9 @@ public:
     std::stack<ll> st;
     ll mn;
 
+    
     MinStack() {
-        this->mn = INT_MAX;  // Initialize mn correctly
+        this->mn = INT_MAX;
     }
     
     void push(int val) {
